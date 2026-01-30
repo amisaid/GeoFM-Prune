@@ -1,6 +1,6 @@
 # When Less is More: Evaluating Structural Pruning in Geospatial Foundation Models
 
-#### Paper accepted at CV4EO Workshop of WACV 2026
+#### Paper accepted at [CV4EO](https://geoai.ornl.gov/cv4eo-wacv/) Workshop of [WACV 2026](https://wacv.thecvf.com).
 
 
 ### Dataset
