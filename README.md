@@ -35,5 +35,5 @@ If you use this code in your research, please cite the paper:
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
     year      = {2026},
     pages     = {1403-1413},
-    url: "https://openaccess.thecvf.com/content/WACV2026W/CV4EO/html/Said_When_Less_is_More_Evaluating_Structural_Pruning_in_Geospatial_Foundation_WACVW_2026_paper.html"
+    url       = {"https://openaccess.thecvf.com/content/WACV2026W/CV4EO/html/Said_When_Less_is_More_Evaluating_Structural_Pruning_in_Geospatial_Foundation_WACVW_2026_paper.html"}
 }
