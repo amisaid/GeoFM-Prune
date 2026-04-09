@@ -26,7 +26,7 @@ Experimented on below strategies:
 
 ## Citation
 
-If you use this code or the pre-trained models in your research, please cite the original paper:
+If you use this code in your research, please cite the paper:
 
 ```bibtex
 @InProceedings{Said_2026_WACVW,
