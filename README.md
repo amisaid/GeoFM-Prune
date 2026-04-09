@@ -22,3 +22,17 @@ Experimented on below strategies:
  * L2
  * Taylor
  * Hessian
+
+
+## Citation
+
+If you use this code or the pre-trained models in your research, please cite the original paper:
+
+```bibtex
+@InProceedings{Said_2026_WACVW,
+    author    = {Said, Amina and Dietlmeier, Julia and McCaul, Margaret and O'Connor, Noel E.},
+    title     = {When Less is More: Evaluating Structural Pruning in Geospatial Foundation Models},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    year      = {2026},
+    pages     = {1403-1413}
+}
